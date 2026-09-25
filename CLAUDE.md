@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 
-- Portfolio_M — TPS 로그라이트 액션-어드벤처, 솔로 인디 개발
+- Portfolio_M — Top-Down View, 로그라이트 액션-어드벤처, 솔로 인디 개발
 - Unity 6.6, 안정적인 최신 기술 사용, 3D 로우폴리 모델링
 - 상세 기획: @docs/root-design.md (추후 작성)
 
